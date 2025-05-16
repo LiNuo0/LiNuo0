@@ -9,3 +9,7 @@
 LiNuo0/LiNuo0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+# K8s Chaos Test Resources
+- [chaos-mesh](https://github.com/chaos-mesh/chaos-mesh)
+- [kube-monkey](https://github.com/asobti/kube-monkey)
