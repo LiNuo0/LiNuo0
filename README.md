@@ -13,3 +13,6 @@ You can click the Preview link to take a look at your changes.
 # K8s Chaos Test Resources
 - [chaos-mesh](https://github.com/chaos-mesh/chaos-mesh)
 - [kube-monkey](https://github.com/asobti/kube-monkey)
+
+# Utilities
+- [helm](https://github.com/helm/helm)
