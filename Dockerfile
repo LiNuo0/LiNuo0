@@ -1,2 +1,2 @@
-FROM scratch
-CMD "ECHO"
+FROM alpine
+CMD "ECHO 'In alpine'"
