@@ -18,4 +18,4 @@ You can click the Preview link to take a look at your changes.
 - [helm](https://github.com/helm/helm)
 - [kubectl](https://github.com/kubernetes/kubectl)
 - [VSCode](https://github.com/microsoft/vscode)
-- [brew]9https://github.com/Homebrew/brew)
+- [brew](https://github.com/Homebrew/brew)
