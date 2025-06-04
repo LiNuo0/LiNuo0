@@ -19,3 +19,4 @@ You can click the Preview link to take a look at your changes.
 - [kubectl](https://github.com/kubernetes/kubectl)
 - [VSCode](https://github.com/microsoft/vscode)
 - [brew](https://github.com/Homebrew/brew)
+- [pyenv](https://github.com/pyenv/pyenv)
