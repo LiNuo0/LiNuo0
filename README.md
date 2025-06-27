@@ -25,3 +25,4 @@ You can click the Preview link to take a look at your changes.
 - [brew](https://github.com/Homebrew/brew)
 - [pyenv](https://github.com/pyenv/pyenv)
 - [fish](https://github.com/fish-shell/fish-shell)
+- [notepad--](https://github.com/cxasm/notepad--)
