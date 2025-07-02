@@ -27,3 +27,4 @@ You can click the Preview link to take a look at your changes.
 - [fish](https://github.com/fish-shell/fish-shell)
 - [notepad--](https://github.com/cxasm/notepad--)
 - [vscode-go](https://github.com/golang/vscode-go)
+- [ollama](https://github.com/ollama/ollama)
