@@ -19,11 +19,11 @@ You can click the Preview link to take a look at your changes.
 - [kube-monkey](https://github.com/asobti/kube-monkey)
 
 # Utilities
+- [brew](https://github.com/Homebrew/brew)
+- [VSCode](https://github.com/microsoft/vscode)
 - [Void](https://github.com/voideditor/void)
 - [helm](https://github.com/helm/helm)
 - [kubectl](https://github.com/kubernetes/kubectl)
-- [VSCode](https://github.com/microsoft/vscode)
-- [brew](https://github.com/Homebrew/brew)
 - [pyenv](https://github.com/pyenv/pyenv)
 - [fish](https://github.com/fish-shell/fish-shell)
 - [notepad--](https://github.com/cxasm/notepad--)
