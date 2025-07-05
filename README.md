@@ -22,6 +22,7 @@ You can click the Preview link to take a look at your changes.
 - [brew](https://github.com/Homebrew/brew)
 - [VSCode](https://github.com/microsoft/vscode)
 - [Void](https://github.com/voideditor/void)
+- [MSEdit](https://github.com/microsoft/edit)
 - [helm](https://github.com/helm/helm)
 - [kubectl](https://github.com/kubernetes/kubectl)
 - [pyenv](https://github.com/pyenv/pyenv)
