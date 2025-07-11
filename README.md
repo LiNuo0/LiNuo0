@@ -25,6 +25,7 @@ You can click the Preview link to take a look at your changes.
 - [MSEdit](https://github.com/microsoft/edit)
 - [helm](https://github.com/helm/helm)
 - [kubectl](https://github.com/kubernetes/kubectl)
+- [krew](https://github.com/kubernetes-sigs/krew)
 - [pyenv](https://github.com/pyenv/pyenv)
 - [fish](https://github.com/fish-shell/fish-shell)
 - [notepad--](https://github.com/cxasm/notepad--)
