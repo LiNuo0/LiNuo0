@@ -31,3 +31,4 @@ You can click the Preview link to take a look at your changes.
 - [notepad--](https://github.com/cxasm/notepad--)
 - [vscode-go](https://github.com/golang/vscode-go)
 - [ollama](https://github.com/ollama/ollama)
+- [V](https://github.com/vlang/v)
