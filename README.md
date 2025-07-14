@@ -34,3 +34,4 @@ You can click the Preview link to take a look at your changes.
 - [vscode-go](https://github.com/golang/vscode-go)
 - [ollama](https://github.com/ollama/ollama)
 - [V](https://github.com/vlang/v)
+- [pigar](https://github.com/damnever/pigar)
