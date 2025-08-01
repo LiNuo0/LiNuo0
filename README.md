@@ -20,6 +20,7 @@ You can click the Preview link to take a look at your changes.
 - [kube-monkey](https://github.com/asobti/kube-monkey)
 
 # Utilities
+- [colima](https://github.com/abiosoft/colima)
 - [brew](https://github.com/Homebrew/brew)
 - [VSCode](https://github.com/microsoft/vscode)
 - [Void](https://github.com/voideditor/void)
