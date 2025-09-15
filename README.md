@@ -16,6 +16,9 @@ You can click the Preview link to take a look at your changes.
 - [Kyma-cli](https://github.com/kyma-project/cli)
 - [Gardener](https://github.com/gardener/gardener)
 
+# CI/CD
+- [argo-cd](https://github.com/argoproj/argo-cd)
+
 # K8s Chaos Test Resources
 - [chaos-mesh](https://github.com/chaos-mesh/chaos-mesh)
 - [kube-monkey](https://github.com/asobti/kube-monkey)
