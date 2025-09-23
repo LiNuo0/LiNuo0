@@ -41,6 +41,7 @@ You can click the Preview link to take a look at your changes.
 - [V](https://github.com/vlang/v)
 - [pip](https://github.com/pypa/pip)
 - [pigar](https://github.com/damnever/pigar)
+- [go-mod-upgrade](https://github.com/oligot/go-mod-upgrade)
 
 # Third-party valuable Go/Python modules
 - [gofrs-uuid](https://github.com/gofrs/uuid)
