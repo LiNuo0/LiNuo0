@@ -41,8 +41,8 @@ You can click the Preview link to take a look at your changes.
 - [V](https://github.com/vlang/v)
 - [pip](https://github.com/pypa/pip)
 - [pigar](https://github.com/damnever/pigar)
-- [go-mod-upgrade](https://github.com/oligot/go-mod-upgrade)
-- [gomod](github.com/anfernee/gomod)
+- [go-mod-upgrade](https://github.com/oligot/go-mod-upgrade) `go install github.com/oligot/go-mod-upgrade@latest`
+- [gomod](github.com/anfernee/gomod) `go install github.com/anfernee/gomod@latest`
 
 # Third-party valuable Go/Python modules
 - [gofrs-uuid](https://github.com/gofrs/uuid)
