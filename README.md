@@ -43,6 +43,7 @@ You can click the Preview link to take a look at your changes.
 - [pigar](https://github.com/damnever/pigar)
 - [go-mod-upgrade](https://github.com/oligot/go-mod-upgrade) `go install github.com/oligot/go-mod-upgrade@latest`
 - [gomod](github.com/anfernee/gomod) `go install github.com/anfernee/gomod@latest`
+- [goup](https://github.com/owenthereal/goup)
 
 # Third-party valuable Go/Python modules
 - [gofrs-uuid](https://github.com/gofrs/uuid)
