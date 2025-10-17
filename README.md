@@ -15,6 +15,7 @@ You can click the Preview link to take a look at your changes.
 - [Kyma](https://github.com/kyma-project/kyma)
 - [Kyma-cli](https://github.com/kyma-project/cli)
 - [Gardener](https://github.com/gardener/gardener)
+- [crossplane](https://github.com/crossplane/crossplane)
 
 # CI/CD
 - [argo-cd](https://github.com/argoproj/argo-cd)
