@@ -16,6 +16,7 @@ You can click the Preview link to take a look at your changes.
 - [Kyma-cli](https://github.com/kyma-project/cli)
 - [Gardener](https://github.com/gardener/gardener)
 - [crossplane](https://github.com/crossplane/crossplane)
+- [vcluster](https://github.com/loft-sh/vcluster) - Virtual Cluster
 
 # CI/CD
 - [argo-cd](https://github.com/argoproj/argo-cd)
