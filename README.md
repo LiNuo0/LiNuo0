@@ -47,6 +47,7 @@ You can click the Preview link to take a look at your changes.
 - [gomod](https://github.com/anfernee/gomod) `go install github.com/anfernee/gomod@latest`
 - [gotests](https://github.com/cweill/gotests) `go install github.com/cweill/gotests/gotests@latest`
 - [goup](https://github.com/owenthereal/goup)
+- [tssh](https://github.com/trzsz/trzsz-ssh)
 
 # Third-party valuable Go/Python modules
 - [gofrs-uuid](https://github.com/gofrs/uuid)
