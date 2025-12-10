@@ -16,6 +16,7 @@ You can click the Preview link to take a look at your changes.
 - [Kyma-cli](https://github.com/kyma-project/cli)
 - [Gardener](https://github.com/gardener/gardener)
 - [crossplane](https://github.com/crossplane/crossplane)
+- [terraform](https://github.com/hashicorp/terraform)
 - [kro(Kube Resource Orchestrator)](https://github.com/kubernetes-sigs/kro)
 - [vcluster](https://github.com/loft-sh/vcluster) - Virtual Cluster
 
