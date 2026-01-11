@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 - [colima](https://github.com/abiosoft/colima)
 - [brew](https://github.com/Homebrew/brew)
 - [VSCode](https://github.com/microsoft/vscode)
-- [VS Code-server](https://github.com/coder/code-server)
+- [VSCode-server](https://github.com/coder/code-server)
 - [Void](https://github.com/voideditor/void)
 - [MSEdit](https://github.com/microsoft/edit)
 - [helm](https://github.com/helm/helm)
