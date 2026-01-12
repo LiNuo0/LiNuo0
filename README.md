@@ -12,6 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 # K8s runtime
 - [Infrabox](https://github.com/SAP/infrabox)
+- [OCM](https://github.com/open-component-model)
 - [Kyma](https://github.com/kyma-project/kyma)
 - [Kyma-cli](https://github.com/kyma-project/cli)
 - [Gardener](https://github.com/gardener/gardener)
