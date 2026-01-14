@@ -40,7 +40,7 @@ You can click the Preview link to take a look at your changes.
 - [kubectl](https://github.com/kubernetes/kubectl)
 - [krew](https://github.com/kubernetes-sigs/krew)
 - [pyenv](https://github.com/pyenv/pyenv)
-- [fish](https://github.com/fish-shell/fish-shell)/[fisher](https://github.com/jorgebucaran/fisher)
+- [fish](https://github.com/fish-shell/fish-shell)/[fisher](https://github.com/jorgebucaran/fisher)/[fish-plugins](https://github.com/topics/fish-plugin)
 - [xonsh](https://github.com/xonsh/xonsh)
 - [notepad--](https://github.com/cxasm/notepad--)
 - [vscode-go](https://github.com/golang/vscode-go)
