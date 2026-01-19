@@ -38,6 +38,7 @@ You can click the Preview link to take a look at your changes.
 - [helm](https://github.com/helm/helm)
 - [kubectl](https://github.com/kubernetes/kubectl)
 - [kubectl-capacity](https://github.com/robscott/kube-capacity.git)
+- [kubectl-foreach](https://github.com/ahmetb/kubectl-foreach.git)
 - [krew](https://github.com/kubernetes-sigs/krew)
 - [pyenv](https://github.com/pyenv/pyenv)
 - [fish](https://github.com/fish-shell/fish-shell)/[fisher](https://github.com/jorgebucaran/fisher)/[fish-plugins](https://github.com/topics/fish-plugin)
