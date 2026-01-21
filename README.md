@@ -54,6 +54,7 @@ You can click the Preview link to take a look at your changes.
 - [gotests](https://github.com/cweill/gotests) `go install github.com/cweill/gotests/gotests@latest`
 - [goup](https://github.com/owenthereal/goup)
 - [tssh](https://github.com/trzsz/trzsz-ssh)
+- [nicegui](https://github.com/zauberzeug/nicegui) - Build a GUI interface by python
 
 # Third-party valuable Go/Python modules
 - [gofrs-uuid](https://github.com/gofrs/uuid)
