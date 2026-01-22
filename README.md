@@ -52,7 +52,8 @@ You can click the Preview link to take a look at your changes.
 - [go-mod-upgrade](https://github.com/oligot/go-mod-upgrade) `go install github.com/oligot/go-mod-upgrade@latest`
 - [gomod](https://github.com/anfernee/gomod) `go install github.com/anfernee/gomod@latest`
 - [gotests](https://github.com/cweill/gotests) `go install github.com/cweill/gotests/gotests@latest`
-- [goup](https://github.com/owenthereal/goup)
+- [goup](https://github.com/owenthereal/goup) - Go version manahement
+- [gup](https://github.com/nao1215/gup) - Update Go tools installed by `go install ...`
 - [tssh](https://github.com/trzsz/trzsz-ssh)
 - [nicegui](https://github.com/zauberzeug/nicegui) - Build a GUI interface by python
 
