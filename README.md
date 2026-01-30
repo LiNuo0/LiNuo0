@@ -21,6 +21,9 @@ You can click the Preview link to take a look at your changes.
 - [terraform](https://github.com/hashicorp/terraform)
 - [kro(Kube Resource Orchestrator)](https://github.com/kubernetes-sigs/kro) - `helm install kro oci://registry.k8s.io/kro/charts/kro --namespace kro-system --create-namespace`
 
+# AI
+- [cline](https://github.com/cline/cline) - AI client(VSCode plugin)
+
 # CI/CD
 - [argo-cd](https://github.com/argoproj/argo-cd)
 
