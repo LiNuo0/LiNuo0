@@ -23,6 +23,7 @@ You can click the Preview link to take a look at your changes.
 
 # AI
 - [cline](https://github.com/cline/cline) - AI client(VSCode plugin)
+- [claude-code](https://github.com/anthropics/claude-code) - AI client CLI
 
 # CI/CD
 - [argo-cd](https://github.com/argoproj/argo-cd)
