@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 # AI
 - [cline](https://github.com/cline/cline) - AI client(VSCode plugin)
 - [claude-code](https://github.com/anthropics/claude-code) - AI client CLI
-  - install the claude VSCode plugin by command `code --install-extension Anthropic.claude-vscode`
+  - install the claude VSCode plugin by command `code --install-extension Anthropic.claude-code`
 - [LiteLLM](https://github.com/BerriAI/litellm) - Proxy for access hyperscaler AI system
 
 # CI/CD
