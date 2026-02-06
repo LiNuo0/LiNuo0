@@ -61,7 +61,7 @@ You can click the Preview link to take a look at your changes.
 - [gup](https://github.com/nao1215/gup) - Update Go tools installed by `go install ...`
 - [tssh](https://github.com/trzsz/trzsz-ssh)
 - [nicegui](https://github.com/zauberzeug/nicegui) - Build a GUI interface by python
-- [jq](https://github.com/jqlang/jq)/[yq](https://github.com/mikefarah/yq) - YAML tool
+- [jq](https://github.com/jqlang/jq)/[yq](https://github.com/mikefarah/yq) - JSON/YAML tool
 
 # Third-party valuable Go/Python modules
 - [gofrs-uuid](https://github.com/gofrs/uuid)
