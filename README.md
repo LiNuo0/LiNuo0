@@ -26,6 +26,7 @@ You can click the Preview link to take a look at your changes.
 - [claude-code](https://github.com/anthropics/claude-code) - AI client CLI
   - install the claude VSCode plugin by command `code --install-extension Anthropic.claude-code`
 - [LiteLLM](https://github.com/BerriAI/litellm) - Proxy for access hyperscaler AI system
+- [Hyperspace AI](https://pages.github.tools.sap/hAIperspace/hai-docs/llm-proxy/quickstart/) - Get your AI coding tools working with the LLM Proxy in under 5 minutes
 
 # CI/CD
 - [argo-cd](https://github.com/argoproj/argo-cd)
