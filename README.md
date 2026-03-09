@@ -61,7 +61,7 @@ You can click the Preview link to take a look at your changes.
 - [gotests](https://github.com/cweill/gotests) `go install github.com/cweill/gotests/gotests@latest`
 - [goup](https://github.com/owenthereal/goup) - Go version management tool
 - [gup](https://github.com/nao1215/gup) - Update Go tools installed by `go install ...`
-- [tssh](https://github.com/trzsz/trzsz-ssh)/[trz/tsz](https://github.com/trzsz/trzsz-go)
+- [tssh](https://github.com/trzsz/trzsz-ssh)/[trz&tsz](https://github.com/trzsz/trzsz-go)
 - [nicegui](https://github.com/zauberzeug/nicegui) - Build a GUI interface by python
 - [jq](https://github.com/jqlang/jq)/[yq](https://github.com/mikefarah/yq) - JSON/YAML tool
 
