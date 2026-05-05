@@ -65,6 +65,7 @@ You can click the Preview link to take a look at your changes.
 - [tssh](https://github.com/trzsz/trzsz-ssh)/[trz&tsz](https://github.com/trzsz/trzsz-go)
 - [nicegui](https://github.com/zauberzeug/nicegui) - Build a GUI interface by python
 - [jq](https://github.com/jqlang/jq)/[yq](https://github.com/mikefarah/yq) - JSON/YAML tool
+- [Zed](https://github.com/zed-industries/zed)
 
 # Third-party valuable Go/Python modules
 - [gofrs-uuid](https://github.com/gofrs/uuid)
