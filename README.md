@@ -31,6 +31,7 @@ You can click the Preview link to take a look at your changes.
 
 # CI/CD
 - [argo-cd](https://github.com/argoproj/argo-cd)
+- [tfenv](https://github.com/tfutils/tfenv) - Terraform version manager
 
 # K8s Chaos Test Resources
 - [chaos-mesh](https://github.com/chaos-mesh/chaos-mesh)
