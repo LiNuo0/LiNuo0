@@ -62,6 +62,7 @@ You can click the Preview link to take a look at your changes.
 - [go-mod-upgrade](https://github.com/oligot/go-mod-upgrade) `go install github.com/oligot/go-mod-upgrade@latest`
 - [gomod](https://github.com/anfernee/gomod) `go install github.com/anfernee/gomod@latest`
 - [gotests](https://github.com/cweill/gotests) `go install github.com/cweill/gotests/gotests@latest`
+- [go-junit-report](https://github.com/jstemmer/go-junit-report) `generate Go unit test coverage report`
 - [goup](https://github.com/owenthereal/goup) - Go version management tool
 - [gup](https://github.com/nao1215/gup) - Update Go tools installed by `go install ...`
 - [tssh](https://github.com/trzsz/trzsz-ssh)/[trz&tsz](https://github.com/trzsz/trzsz-go)
