@@ -71,5 +71,8 @@ You can click the Preview link to take a look at your changes.
 - [jq](https://github.com/jqlang/jq)/[yq](https://github.com/mikefarah/yq) - JSON/YAML tool
 - [vlt](https://github.com/vltpkg/vltpkg) -- JavaScript modules manager, install by `curl -fsSL https://install.vlt.sh | bash`
 
+# Access hyperscaler cloud resources
+- [awscli](https://github.com/aws/aws-cli/tree/v2)
+
 # Third-party valuable Go/Python modules
 - [gofrs-uuid](https://github.com/gofrs/uuid)
