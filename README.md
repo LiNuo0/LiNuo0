@@ -70,6 +70,7 @@ You can click the Preview link to take a look at your changes.
 - [nicegui](https://github.com/zauberzeug/nicegui) - Build a GUI interface by python
 - [jq](https://github.com/jqlang/jq)/[yq](https://github.com/mikefarah/yq) - JSON/YAML tool
 - [vlt](https://github.com/vltpkg/vltpkg) -- JavaScript modules manager, install by `curl -fsSL https://install.vlt.sh | bash`
+- [ryl](https://github.com/owenlamont/ryl) -- Fast YAML linter and formatter written in Rust
 
 # Access hyperscaler cloud resources
 - [awscli](https://github.com/aws/aws-cli/tree/v2)
