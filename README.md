@@ -23,10 +23,10 @@ You can click the Preview link to take a look at your changes.
 
 # AI
 - [cline](https://github.com/cline/cline) - AI client(VSCode plugin)
-- [claude-code](https://github.com/anthropics/claude-code)([releases](https://github.com/anthropics/claude-code/releases)) - AI client CLI
-  - install the claude VSCode plugin by command `code --install-extension Anthropic.claude-code`
-  - [skills](https://github.com/anthropics/skills)
-  - [rtk](https://github.com/rtk-ai/rtk)
+- ~[claude-code](https://github.com/anthropics/claude-code)([releases](https://github.com/anthropics/claude-code/releases)) - AI client CLI~
+  - ~install the claude VSCode plugin by command `code --install-extension Anthropic.claude-code`~
+  - ~[skills](https://github.com/anthropics/skills)~
+- [rtk](https://github.com/rtk-ai/rtk) - tool to save AI token
 - [codex](https://github.com/openai/codex) - install by `brew install --cask codex`
 - [opencode](https://github.com/anomalyco/opencode) - install by `brew install anomalyco/tap/opencode-v2`
 - [crush]() - install by `brew install charmbracelet/tap/crush`
