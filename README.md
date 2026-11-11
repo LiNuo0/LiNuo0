@@ -27,7 +27,9 @@ You can click the Preview link to take a look at your changes.
   - install the claude VSCode plugin by command `code --install-extension Anthropic.claude-code`
   - [skills](https://github.com/anthropics/skills)
   - [rtk](https://github.com/rtk-ai/rtk)
-- [codex](https://github.com/openai/codex)
+- [codex](https://github.com/openai/codex) - install by `brew install --cask codex`
+- [opencode](https://github.com/anomalyco/opencode) - install by `brew install anomalyco/tap/opencode-v2`
+- [crush]() - install by `brew install charmbracelet/tap/crush`
 - [LiteLLM](https://github.com/BerriAI/litellm) - Proxy for access hyperscaler AI system
 - [Hyperspace AI](https://pages.github.tools.sap/hAIperspace/hai-docs/llm-proxy/quickstart/) / [hai-cli](https://github.tools.sap/hAIperspace/hai-cli) / [Web site](https://claude-code-session-grouchy-wombat-qy.cfapps.eu12-001.hana.ondemand.com/) - Get your AI coding tools working with the LLM Proxy in under 5 minutes
 
