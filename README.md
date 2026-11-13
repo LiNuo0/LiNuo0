@@ -42,6 +42,7 @@ You can click the Preview link to take a look at your changes.
 - [kube-monkey](https://github.com/asobti/kube-monkey)
 
 # Utilities
+- [2fa](https://github.com/rsc/2fa) - Two-factor authentication 
 - [colima](https://github.com/abiosoft/colima)/[UTM](https://github.com/utmapp/UTM)/[Multipass](https://github.com/canonical/multipass)/[lima](https://github.com/lima-vm/lima)  -- Setup VM on MacOS
 - [brew](https://github.com/Homebrew/brew)
 - [VSCode](https://github.com/microsoft/vscode)
